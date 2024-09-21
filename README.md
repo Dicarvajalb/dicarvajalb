@@ -4,7 +4,7 @@ Im Diego, a software dev with experience in web development.
 
 Currenly working on: 
 - Micro-frontend powered web apps
-- My leetcode profile
+- My algorithms and DS skills
 - My soft skills
 - My side projects - An interactive pomodoro timer
 
