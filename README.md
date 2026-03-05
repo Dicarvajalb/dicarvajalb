@@ -7,6 +7,7 @@ Currenly working on:
 - My algorithms and data structures skills
 - My soft skills
 - My side projects - An interactive pomodoro timer
+- An auth template to easily start in NestJs
 
 Stats:
 
