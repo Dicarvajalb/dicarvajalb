@@ -1,6 +1,6 @@
 <h1> Hey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-Im Diego, a software dev with experience in web development.
+Im Diego, Software engineer with experience in web development.
 
 Currenly working on: 
 - A NestJs authN template
